@@ -9,11 +9,11 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Academic Portfolio 
+description:A personal website 
 year: 2026
-author: ISU Cyclone
-bio:
+author: Duong Nguyen
+bio: Duong Nguyen is a Ph.D. student in the Applied Lingusitics and Technology at ISU.
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
