@@ -10,18 +10,18 @@
 # SITE SETTINGS
 #
 title: Academic Portfolio 
-description:A personal website 
+description: A personal website
 year: 2026
 author: Duong Nguyen
 bio: Duong Nguyen is a Ph.D. student in the Applied Lingusitics and Technology at ISU.
 
 # PERSONAL URLS
-image: /assets/img/Duong Nguyen_headshot.png
+image: 
 email: duongn@iastate.edu
 github_profile: 
 department: https://engl.iastate.edu/profiles/duong-nguyen/
 orcid:
-cv: /assets/Duong Nguyen-CV-Ver3.docx
+cv: 
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
